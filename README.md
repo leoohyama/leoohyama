@@ -8,6 +8,6 @@ R (variety of libraries), Shiny, Quarto, Python (pytorch mainly), Github Actions
 On the side I like to tinker with different datasets and I'm currently working on a price forecasting application for trading cards!
 Check it out:
 
-[![Lorecaster Dashboard Preview](https://github.com/user-attachments/assets/103c05f6-bb5b-4c34-bd9d-0930aa1932dc)](http://lorecaster.ink)
+[![Lorecaster Dashboard Preview](https://github.com/user-attachments/assets/5890e5b9-3c4a-43de-b9ef-a480722ce660)](http://lorecaster.ink)
 *Click the image above to explore the live market forecasts.*
 
